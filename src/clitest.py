@@ -104,11 +104,11 @@ def _parse_args():
 
     # create the parser
     argparser = argparse.ArgumentParser(
-        description='PP_SHORT_DESC'
+        description='a short desc'
     )
 
     # always print prog name/version
-    print('CLITest version PP_VERSION')
+    print('CLITest version 1.1.2')
 
     # add arguments from the function above
     add_args(argparser)

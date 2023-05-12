@@ -1,9 +1,11 @@
 {
-    "PP_VERSION": "",
-    "PP_SHORT_DESC": "",
-    "PP_KEYWORDS": "",
-    "PP_PY_DEPS": {},
-    "PP_SYS_DEPS": "",
+    "PP_VERSION": "1.1.2",
+    "PP_SHORT_DESC": "a short desc",
+    "PP_KEYWORDS": "key1, key2,key2",
+    "PP_PY_DEPS": {
+        "dep1": "dep1"
+    },
+    "PP_SYS_DEPS": "sdep1, sdep2, sdep3",
     "PP_GUI_CATEGORIES": "",
     "PP_GUI_EXEC": "",
     "PP_GUI_ICON": ""

@@ -12,14 +12,14 @@
 [![License: WTFPL](https://img.shields.io/badge/License-WTFPL-brightgreen.svg)](http://www.wtfpl.net/about/)
 
 <!-- __RM_SHORT_DESC_START__ -->
-PP_SHORT_DESC
+a short desc
 <!-- __RM_SHORT_DESC_END__ -->
 
 <!-- ![Screenshot](misc/screenshot.jpg) -->
 
 ## Requirements
 <!-- __RM_PY_DEPS_START__ -->
-PP_PY_DEPS
+[dep1](dep1)
 <!-- __RM_PY_DEPS_END__ -->
 
 ## Installing
@@ -30,8 +30,8 @@ Download either the 'tar.gz' or '.zip' file and extract it.
 
 Then run the 'install.py' file from there:
 ```bash
-foo@bar:~$ cd ~/Downloads/CLITest-PP_VERSION
-foo@bar:~/Downloads/CLITest-PP_VERSION$ ./install.py
+foo@bar:~$ cd ~/Downloads/CLITest-1.1.2
+foo@bar:~/Downloads/CLITest-1.1.2$ ./install.py
 ```
 
 Or you can clone the git repo to get the latest (and often broken) code from the
